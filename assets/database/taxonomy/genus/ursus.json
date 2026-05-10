@@ -1,0 +1,21 @@
+{
+    "ID": "ursus",
+    "TYPE": "GENUS",
+    
+    "common_name": "Ursus (mammal)",
+
+    "temporal": {
+        "epoch": "pliocene-holocene",
+        "megaannus": "5.333-0"
+    },
+
+    "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "subfamily": "Ursinae",
+        "genus": "Ursus"
+    }
+}

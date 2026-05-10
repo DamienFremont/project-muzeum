@@ -1,17 +1,15 @@
 {
-    "id": "ursus_americanus",
+    "ID": "ursus_americanus",
+    "TYPE": "SPECIES",
 
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_black_bear",
     "common_name": "American black bear",
-    
     "binomial_name": "Ursus americanus",
 
     "temporal": {
         "epoch": "pliocene-holocene",
         "megaannus": "2.6-0"
     },
-
-    "conservation_status": "LC",
 
     "taxonomy": {
         "kingdom": "Animalia",
@@ -21,6 +19,8 @@
         "family": "Ursidae",
         "subfamily": "Ursinae",
         "genus": "Ursus",
-        "species": "Ursus americanus"
+        "species": "Ursus americanus",
+
+        "alimentation": "omnivore"
     }
 }
