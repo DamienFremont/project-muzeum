@@ -1,4 +1,5 @@
 {
+    "id": "ursus_americanus",
     "species": "Ursus americanus",
     "common_name": "American black bear",
     "taxonomy": {
@@ -10,5 +11,6 @@
         "subfamily": "Ursinae",
         "genus": "Ursus",
         "species": "Ursus americanus"
-    }
+    },
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_black_bear"
 }
