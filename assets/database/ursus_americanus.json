@@ -12,5 +12,9 @@
         "genus": "Ursus",
         "species": "Ursus americanus"
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/American_black_bear"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_black_bear",
+    "temporal": {
+        "epoch": "pliocene-holocene",
+        "megaannus": "2.6-0"
+    }
 }
