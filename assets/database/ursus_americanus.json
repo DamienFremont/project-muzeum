@@ -2,15 +2,17 @@
     "id": "ursus_americanus",
 
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_black_bear",
-
     "common_name": "American black bear",
+    
+    "binomial_name": "Ursus americanus",
 
     "temporal": {
         "epoch": "pliocene-holocene",
         "megaannus": "2.6-0"
     },
-    
-    "species": "Ursus americanus",
+
+    "conservation_status": "LC",
+
     "taxonomy": {
         "kingdom": "Animalia",
         "phylum": "Chordata",
