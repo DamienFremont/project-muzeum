@@ -1,0 +1,14 @@
+{
+    "species": "Ursus americanus",
+    "common_name": "American black bear",
+    "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "subfamily": "Ursinae",
+        "genus": "Ursus",
+        "species": "Ursus americanus"
+    }
+}
