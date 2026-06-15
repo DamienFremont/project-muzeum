@@ -1,0 +1,16 @@
+{
+    "ID": "ursus_americanus",
+    "TYPE": "ENTITY",
+
+    "name": "American black bear",
+
+    "2d": {
+        "thumbnail": "res://images/ursus_americanus-thumbnail.png",
+        "icon": "res://images/ursus_americanus-icon.png"
+    },
+
+    "3d": {
+        "3dmodel": "",
+        "texture": ""
+    }
+}
